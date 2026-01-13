@@ -18,7 +18,7 @@
   - Designed and implemented predictive models for customer churn and lifetime value, driving data-informed decision-making. -->
 
 
-- **Cloud and DevOpsEngineer, Bell Media** — Toronto, Canada (Oct. 2021 – Jul. 2025)  
+- **Cloud and DevOps Engineer, Bell Media** — Toronto, Canada (Oct. 2021 – Jul. 2025)  
   - Owned and optimized Jenkins/GitLab CI/CD platforms on AWS, improving build efficiency by **27%** through parallelization and caching.  
   - Automated infrastructure and configuration management using **Terraform and Ansible**, strengthening platform reliability and scalability.  
   - Led cross-team initiatives (Lighthouse, CRNA DNS, Satellite migration) to improve observability, network robustness, and deployment consistency.  

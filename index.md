@@ -8,7 +8,7 @@ I am a MASc student specializing in machine learning and GAI-driven wireless com
 
 <!-- My research focuses on optimizing beyond-5G and 6G wireless systems through generative AI, intelligent resource allocation, and AI-enabled vehicular communication. I am particularly interested in developing scalable and reliable learning-based frameworks for autonomous driving, network orchestration, and next-generation communication systems. -->
 
-Currently, my work explores resource-aware communication strategies, quantum-enhanced user association, and hybrid large language model (LLM)-assisted decision-making for joint autonomous driving and communication optimization.
+Currently, my work explores resource-aware communication strategies, quantum-enhanced user association, diffusion models, and hybrid large language model (LLM)-assisted decision-making for joint autonomous driving and communication optimization.
 
 ## Research Interests
 
