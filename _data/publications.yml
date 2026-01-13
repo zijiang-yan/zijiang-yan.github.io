@@ -1,0 +1,78 @@
+preprints:
+  - title: "EMFusion: Conditional Diffusion Framework for Trustworthy Frequency Selective EMF Forecasting in Wireless Networks"
+    authors: <strong>Zijiang Yan*</strong>, Yixiang Huang*, Jianhua Pei, Hina Tabassum, Luca Chiaraviglio
+    conference_short: Preprint
+    conference: arXiv preprint arXiv:2512.15067, Dec. 2025.
+    pdf: https://arxiv.org/abs/2512.15067
+    image: ./assets/img/publications/teaser_example_2.png
+    # notes: Preprint
+
+journals:
+  - title: "Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks"
+    authors: <strong>Zijiang Yan*</strong>, Jianhua Pei*, Hongda Wu, Hina Tabassum, Ping Wang
+    conference_short: IEEE Wireless Comm.
+    conference: IEEE Wireless Communications, Jul. 2025.
+    pdf: https://arxiv.org/abs/2502.05695
+    ieee: https://ieeexplore.ieee.org/document/11175641
+    image: ./assets/img/publications/teaser_example_2.png
+
+  - title: "Generalized Multi-Objective Reinforcement Learning with Envelope Updates in URLLC-enabled Vehicular Networks"
+    authors: <strong>Zijiang Yan</strong>, Hina Tabassum
+    conference_short: TVT
+    conference: IEEE Transactions on Vehicular Technology <strong>(TVT)</strong>, Jun. 2025.
+    pdf: 
+    ieee: https://doi.org/10.1109/TVT.2025.3580502
+    page: https://patrickyanz.github.io/envelope-videos.html
+    poster: https://patrickyanz.github.io/posters/vts-student-project-zijiang-final-3.pdf
+    video: https://youtu.be/EjZOxzjk9SM
+    image: ./assets/img/publications/teaser_example_2.png
+
+  - title: "Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving"
+    authors: <strong>Zijiang Yan</strong>, Hao Zhou, Hina Tabassum, Xue Liu
+    conference_short: WCL
+    conference: IEEE Wireless Communications Letters <strong>(WCL)</strong>, Feb. 2025.
+    pdf: https://arxiv.org/abs/2410.08906
+    ieee: https://doi.org/10.1109/LWC.2025.3539638
+    supp: https://patrickyanz.github.io/research/topic2/llm_highway_env_supplementary_material.pdf
+    image: ./assets/img/publications/teaser_example_2.png
+
+conferences:
+  - title: "Hierarchical and Collaborative LLM-Based Control for Multi-UAV Motion and Communication in Integrated Terrestrial and Non-Terrestrial Networks"
+    authors: <strong>Zijiang Yan*</strong>, Hao Zhou*, Jianhua Pei, Hina Tabassum
+    conference_short: ML4Wireless
+    conference: ICML 2025 Workshop on Machine Learning for Wireless Communication and Networks <strong>(ML4Wireless)</strong>, Jul. 2025.
+    pdf: https://arxiv.org/abs/2506.06532
+    image: ./assets/img/publications/teaser_example_2.png
+
+  - title: "CVaR-Based Variational Quantum Optimization for User Association in Handoff-Aware Vehicular Networks"
+    authors: <strong>Zijiang Yan</strong>, Hao Zhou, Jianhua Pei, Aryan Kaushik, Hina Tabassum, Ping Wang
+    conference_short: ICC
+    conference: IEEE International Conference on Communications <strong>(ICC)</strong>, Jun. 2025.
+    pdf: https://arxiv.org/abs/2501.08418
+    ieee: https://ieeexplore.ieee.org/document/11161596
+    image: ./assets/img/publications/teaser_example_2.png
+
+  - title: "Optimizing Vehicular Networks with Variational Quantum Circuits-based Reinforcement Learning"
+    authors: <strong>Zijiang Yan</strong>, Ramsundar Tanikella, Hina Tabassum
+    conference_short: INFOCOM
+    conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, May 2024.
+    pdf: https://arxiv.org/abs/2405.18984
+    ieee: https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620888
+    poster: https://patrickyanz.github.io/posters/infocom24-Poster-final5-zijiang.pdf
+    image: ./assets/img/publications/teaser_example_2.png
+
+  - title: "Multi-UAV Speed Control with Collision Avoidance and Handover-Aware Cell Association - DRL with Action Branching"
+    authors: <strong>Zijiang Yan</strong>, Wael Jaafar, Bassant Selim, Hina Tabassum
+    conference_short: GLOBECOM
+    conference: IEEE Global Communications Conference <strong>(GLOBECOM)</strong>, Dec. 2023.
+    pdf: https://arxiv.org/abs/2307.13158
+    ieee: https://ieeexplore.ieee.org/document/10436730
+    image: ./assets/img/publications/teaser_example_2.png
+
+  - title: "Reinforcement Learning for Joint V2I Network Selection and Autonomous Driving Policies"
+    authors: <strong>Zijiang Yan</strong>, Hina Tabassum
+    conference_short: GLOBECOM
+    conference: IEEE Global Communications Conference <strong>(GLOBECOM)</strong>, Dec. 2022.
+    pdf: https://arxiv.org/abs/2208.02249
+    ieee: https://ieeexplore.ieee.org/abstract/document/10001396
+    image: ./assets/img/publications/teaser_example_2.png
