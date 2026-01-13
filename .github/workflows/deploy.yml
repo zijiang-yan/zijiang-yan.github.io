@@ -33,7 +33,9 @@ jobs:
 
       - name: Build with Jekyll
         # outputting to _site by default
-        run: bundle exec jekyll build
+        run: |
+          bundle exec jekyll build
+          touch ./_site/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
