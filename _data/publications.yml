@@ -3,7 +3,7 @@ preprints:
     authors: <strong>Zijiang Yan*</strong>, Yixiang Huang*, Jianhua Pei, Hina Tabassum, Luca Chiaraviglio
     # conference_short: Preprint
     conference: arXiv preprint arXiv:2512.15067, Dec. 2025.
-    pdf: https://arxiv.org/abs/2512.15067
+    pdf: https://arxiv.org/pdf/2512.15067
     image: ./assets/img/publications/tnse25.png
     # notes: Preprint
 
@@ -12,7 +12,7 @@ journals:
     authors: <strong>Zijiang Yan*</strong>, Jianhua Pei*, Hongda Wu, Hina Tabassum, Ping Wang
     conference_short: WCM
     conference: IEEE Wireless Communications <strong>(WCM)</strong>, Jul. 2025.
-    pdf: https://arxiv.org/abs/2502.05695
+    pdf: https://arxiv.org/pdf/2502.05695
     ieee: https://ieeexplore.ieee.org/document/11175641
     image: ./assets/img/publications/wcm25.png
 
@@ -20,7 +20,7 @@ journals:
     authors: <strong>Zijiang Yan</strong>, Hina Tabassum
     conference_short: TVT
     conference: IEEE Transactions on Vehicular Technology <strong>(TVT)</strong>, Jun. 2025.
-    pdf: https://arxiv.org/abs/2405.11331
+    pdf: https://arxiv.org/pdf/2405.11331
     ieee: https://doi.org/10.1109/TVT.2025.3580502
     page: https://patrickyanz.github.io/envelope-videos.html
     poster: https://patrickyanz.github.io/posters/vts-student-project-zijiang-final-3.pdf
@@ -31,7 +31,7 @@ journals:
     authors: <strong>Zijiang Yan</strong>, Hao Zhou, Hina Tabassum, Xue Liu
     conference_short: WCL
     conference: IEEE Wireless Communications Letters <strong>(WCL)</strong>, Feb. 2025.
-    pdf: https://arxiv.org/abs/2410.08906
+    pdf: https://arxiv.org/pdf/2410.08854
     ieee: https://doi.org/10.1109/LWC.2025.3539638
     supp: https://patrickyanz.github.io/research/topic2/llm_highway_env_supplementary_material.pdf
     image: ./assets/img/publications/wcl25.png
@@ -42,7 +42,7 @@ conferences:
     authors: <strong>Zijiang Yan*</strong>, Hao Zhou*, Jianhua Pei, Hina Tabassum
     conference_short: ICML Workshop
     conference: ICML 2025 Workshop on Machine Learning for Wireless Communication and Networks <strong>(ML4Wireless)</strong>, Jul. 2025.
-    pdf: https://arxiv.org/abs/2506.06532
+    pdf: https://arxiv.org/pdf/2506.06532
     image: ./assets/img/publications/icml25.jpg
     page: https://zijiang-yan.github.io/HAPS-UAV-LLM/
 
@@ -50,7 +50,7 @@ conferences:
     authors: <strong>Zijiang Yan</strong>, Hao Zhou, Jianhua Pei, Aryan Kaushik, Hina Tabassum, Ping Wang
     conference_short: ICC
     conference: IEEE International Conference on Communications <strong>(ICC)</strong>, Jun. 2025.
-    pdf: https://arxiv.org/abs/2501.08418
+    pdf: https://arxiv.org/pdf/2501.08418
     ieee: https://ieeexplore.ieee.org/document/11161596
     image: ./assets/img/publications/icc25-white.png
 
@@ -58,7 +58,7 @@ conferences:
     authors: <strong>Zijiang Yan</strong>, Ramsundar Tanikella, Hina Tabassum
     conference_short: INFOCOM Poster
     conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, May 2024.
-    pdf: https://arxiv.org/abs/2405.18984
+    pdf: https://arxiv.org/pdf/2405.18984
     ieee: https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620888
     poster: https://patrickyanz.github.io/posters/infocom24-Poster-final5-zijiang.pdf
     image: ./assets/img/publications/infocom24.jpg
@@ -67,7 +67,7 @@ conferences:
     authors: <strong>Zijiang Yan</strong>, Wael Jaafar, Bassant Selim, Hina Tabassum
     conference_short: GLOBECOM
     conference: IEEE Global Communications Conference <strong>(GLOBECOM)</strong>, Dec. 2023.
-    pdf: https://arxiv.org/abs/2307.13158
+    pdf: https://arxiv.org/pdf/2307.13158
     ieee: https://ieeexplore.ieee.org/document/10436730
     image: ./assets/img/publications/globecom23-white.png
     page: https://zijiang-yan.github.io/HAPS-UAV-LLM/
@@ -76,7 +76,7 @@ conferences:
     authors: <strong>Zijiang Yan</strong>, Hina Tabassum
     conference_short: GLOBECOM
     conference: IEEE Global Communications Conference <strong>(GLOBECOM)</strong>, Dec. 2022.
-    pdf: https://arxiv.org/abs/2208.02249
+    pdf: https://arxiv.org/pdf/2208.02249
     ieee: https://ieeexplore.ieee.org/abstract/document/10001396
     image: ./assets/img/publications/globecom22.png
     page: https://patrickyanz.github.io/envelope-videos.html
