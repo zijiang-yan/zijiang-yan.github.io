@@ -11,7 +11,7 @@ journals:
   - title: "Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks"
     authors: <strong>Zijiang Yan*</strong>, Jianhua Pei*, Hongda Wu, Hina Tabassum, Ping Wang
     conference_short: WCM
-    conference: IEEE Wireless Communications, Jul. 2025.
+    conference: IEEE Wireless Communications <strong>(WCM)</strong>, Jul. 2025.
     pdf: https://arxiv.org/abs/2502.05695
     ieee: https://ieeexplore.ieee.org/document/11175641
     image: ./assets/img/publications/wcm25.png
