@@ -1,4 +1,12 @@
 preprints:
+  - title: "Drift-Aware Load Forecasting for IoT Energy Systems Leveraging TimesNet-Based Two-Layer Framework"
+    authors: Yixiang Huang, <strong>Zijiang Yan</strong>, Jianhua Pei, Jinfu Chen
+    # conference_short: Under Review
+    conference: Under review, Mar. 2026.
+    # pdf:
+    image: ./assets/img/publications/iotj26-yixiang.png
+    # notes: Preprint
+
   - title: "EMFusion: Conditional Diffusion Framework for Trustworthy Frequency Selective EMF Forecasting in Wireless Networks"
     authors: <strong>Zijiang Yan*</strong>, Yixiang Huang*, Jianhua Pei, Hina Tabassum, Luca Chiaraviglio
     # conference_short: Preprint
