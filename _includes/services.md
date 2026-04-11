@@ -22,7 +22,7 @@
   - Built and standardized CI/CD pipelines and Infrastructure-as-Code using **Terraform and Ansible**, improving deployment consistency and environment reproducibility.  
   - Managed **Kubernetes (GKE)** clusters and containerized workloads (**Docker, Helm**) across development and production environments.  
   - Implemented observability and reliability practices using **Prometheus, Grafana, and ELK**, enabling **SLI/SLO-driven monitoring** and proactive incident response.  
-  - Collaborated with data engineering teams to support large-scale data ingestion, processing pipelines, and platform reliability at scale.  
+  <!-- - Collaborated with data engineering teams to support large-scale data ingestion, processing pipelines, and platform reliability at scale.   -->
 
 - **Cloud and DevOps Engineer, Bell Media** — Toronto, Canada (Oct. 2021 – Jul. 2025)  
   - Owned and optimized Jenkins/GitLab CI/CD platforms on AWS, improving build efficiency by **27%** through parallelization and caching.  
