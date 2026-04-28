@@ -1,4 +1,20 @@
 preprints:
+  - title: "Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach"
+    authors: <strong>Zijiang Yan</strong>, Hao Zhou, Wael Jaafar, Jianhua Pei, Ping Wang, Halim Yanikomeroglu, Hina Tabassum
+    # conference_short: Under Review
+    conference: Under review, May 2026.
+    # pdf:
+    image: ./assets/img/publications/globecom26.png
+    # notes: Preprint
+
+  - title: "Hierarchical LLM-Driven Control for HAPS-Assisted UAV Networks: Joint Optimization of Flight and Connectivity"
+    authors: <strong>Zijiang Yan</strong>, Hao Zhou, Wael Jaafar, Jianhua Pei, Ping Wang, Halim Yanikomeroglu, Hina Tabassum
+    # conference_short: Under Review
+    conference: Under review, Apr. 2026.
+    # pdf:
+    image: ./assets/img/publications/tmc26.png
+    # notes: Preprint
+
   - title: "Concept Drift-Aware Load Forecasting for IoT Energy Systems Leveraging TimesNet-Based Two-Layer Framework"
     authors: Yixiang Huang, <strong>Zijiang Yan</strong>, Jianhua Pei, Jinfu Chen
     # conference_short: Under Review
