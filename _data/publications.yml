@@ -5,6 +5,7 @@ preprints:
     conference: Under review, May. 2026.
     # pdf:
     image: ./assets/img/publications/globecom26.png
+    page: https://zijiang-yan.github.io/HAPS-UAV-LLM/
     # notes: Preprint
 
   - title: "Hierarchical LLM-Driven Control for HAPS-Assisted UAV Networks: Joint Optimization of Flight and Connectivity"
@@ -13,6 +14,7 @@ preprints:
     conference: arXiv preprint arXiv:2605.11509, Apr. 2026. 
     pdf: https://arxiv.org/pdf/2605.11509
     image: ./assets/img/publications/tmc26.png
+    page: https://zijiang-yan.github.io/HAPS-UAV-LLM/
     # notes: Preprint
 
   - title: "Concept Drift-Aware Load Forecasting for IoT Energy Systems Leveraging TimesNet-Based Two-Layer Framework"
@@ -29,6 +31,7 @@ preprints:
     conference: arXiv preprint arXiv:2512.15067, Dec. 2025.
     pdf: https://arxiv.org/pdf/2512.15067
     image: ./assets/img/publications/tnse25.png
+    page: https://zijiang-yan.github.io/EMFusion/
     # notes: Preprint
 
 journals:
