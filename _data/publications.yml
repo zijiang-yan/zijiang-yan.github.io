@@ -25,7 +25,7 @@ preprints:
     image: ./assets/img/publications/iotj26-yixiang.png
     # notes: Preprint
 
-  - title: "EMFusion: Conditional Diffusion Framework for Trustworthy Frequency Selective EMF Forecasting in Wireless Networks"
+  - title: "EMFusion: An Uncertainty-Aware Conditional Diffusion Framework for Frequency-Selective EMF Forecasting in Wireless Networks"
     authors: <strong>Zijiang Yan*</strong>, Yixiang Huang*, Jianhua Pei, Hina Tabassum, Luca Chiaraviglio
     # conference_short: Preprint
     conference: arXiv preprint arXiv:2512.15067, Dec. 2025.
