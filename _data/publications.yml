@@ -25,16 +25,16 @@ preprints:
     image: ./assets/img/publications/iotj26-yixiang.png
     # notes: Preprint
 
-  - title: "EMFusion: An Uncertainty-Aware Conditional Diffusion Framework for Frequency-Selective EMF Forecasting in Wireless Networks"
+journals:
+  - title: "EMFusion: Uncertainty-Aware Conditional Diffusion Model for Multivariate Narrow-band Exposure Forecasting"
     authors: <strong>Zijiang Yan*</strong>, Yixiang Huang*, Jianhua Pei, Hina Tabassum, Luca Chiaraviglio
-    # conference_short: Preprint
-    conference: arXiv preprint arXiv:2512.15067, Dec. 2025.
+    conference_short: TNSE
+    conference: IEEE Transactions on Network Science and Engineering <strong>(TNSE)</strong>, Jun. 2026.
     pdf: https://arxiv.org/pdf/2512.15067
     image: ./assets/img/publications/tnse25.png
     page: https://zijiang-yan.github.io/EMFusion/
     # notes: Preprint
 
-journals:
   - title: "Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks"
     authors: <strong>Zijiang Yan*</strong>, Jianhua Pei*, Hongda Wu, Hina Tabassum, Ping Wang
     conference_short: WCM
