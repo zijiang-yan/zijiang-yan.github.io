@@ -26,7 +26,6 @@ journals:
     image: ./assets/img/publications/tnse25.png
     ieee: https://doi.org/10.1109/TNSE.2026.3234567
     page: https://zijiang-yan.github.io/EMFusion/
-    # notes: Preprint
 
   - title: "Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks"
     authors: <strong>Zijiang Yan*</strong>, Jianhua Pei*, Hongda Wu, Hina Tabassum, Ping Wang
