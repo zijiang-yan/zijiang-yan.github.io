@@ -1,5 +1,12 @@
 preprints:
 
+  - title: "Concept Drift-Aware Load Forecasting for IoT Energy Systems Leveraging TimesNet-Based Two-Layer Framework"
+    authors:  <strong>Zijiang Yan</strong>, Hina Tabassum, Ping Wang
+    # conference_short: Under Review
+    conference: Under review, Sep. 2026.
+    # pdf:
+    image: ./assets/img/publications/icassp27.png
+
   - title: "Hierarchical LLM-Driven Control for HAPS-Assisted UAV Networks: Joint Optimization of Flight and Connectivity"
     authors: <strong>Zijiang Yan</strong>, Hao Zhou, Wael Jaafar, Jianhua Pei, Ping Wang, Halim Yanikomeroglu, Hina Tabassum
     # conference_short: Under Review
